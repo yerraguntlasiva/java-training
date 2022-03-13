@@ -1,0 +1,10 @@
+.*
+**/out
+**/metadata
+**/sonarlist
+*.class
+*.serialize
+*.iml
+*.gitignore
+**/Servers
+**/JEE Demo/JEE-Demo/

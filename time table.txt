@@ -1,0 +1,13 @@
+Module:-
+1. Core Java - 17.5hrs
+2. Java Web Development - 9hrs
+3. Java DevOps/CICD - 6.5hrs
+4. Jenkins - 3.5hrs
+5. Microservices architecture - 5hrs
+6. Junti - 4.5hrs
+7. Hibernet and JPA - 13hrs
+8. Spring Framework - 12hrs
+9. Spring Boot Web Services - 9.5hrs
+10. GIT - 6hrs
+11. Maven - 5.5hrs
+12. Docker - 3hrs
